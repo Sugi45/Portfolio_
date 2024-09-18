@@ -1,0 +1,214 @@
+.nav-bar{
+  background-color: black;
+  padding: 20px;
+}
+.nav ul li{
+  display: inline-block;
+  padding: 20px;
+  color: white;
+  font-size: 25px;
+}
+.nav-link{
+  padding: 20px;
+  background-color: black;
+}
+.name{
+  padding-left: 50px;
+  color: yellow;
+  font-size: 25px;
+}
+.domain{
+  padding-left: 50px;
+  color: white;
+  font-size: 25px;
+}
+.btn{
+  font-size: 16px;
+  border-radius: 8px;
+  margin-left: 50px;
+}
+.about{
+  background-color: black;
+  padding: 50px;
+}
+.abt{
+  padding: 20px;
+  margin-top: -30px;
+  color: white;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+.person-abt{
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.portfolio{
+  background-color: black;
+  padding: 20px;
+}
+.portfol{
+  padding: 20px;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: -20px;
+}
+.pro-one{
+  padding: 20px;
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+.title-one{
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+.desc-one{
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.pre-two{
+  padding: 20px;
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+.title-two{
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+.desc-two{
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.pos-the{
+  padding: 20px;
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+.title-the{
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+.desc-the{
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.skills{
+  background-color: black;
+  padding: 20px;
+  margin-top: -20px;
+}
+.my-skills{
+  padding: 30px;
+  font-size: 25px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+}
+.category{
+  font-size: 16px;
+  color: white;
+  height: 178px;
+  width: 100%;
+  text-align: center;
+  padding: 40px;
+  margin: 10px 0;
+}
+.html{
+  font-size: 25px;
+}
+.css{
+  font-size: 25px;
+}
+.javascript{
+  font-size: 25px;
+}
+.bootstrap{
+  font-size: 25px;
+}
+.react{
+  font-size: 25px;
+}
+.node{
+  font-size: 25px;
+}
+.mysql{
+  font-size: 25px;
+}
+.java{
+  font-size: 25px;
+}
+.contact-me{
+  background-color: #34353a !important;
+  padding: 50px;
+
+}
+.cont{
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  font-weight: 700;
+}
+.mail{
+  font-size: 19px;
+  font-weight: 500;
+  color: black;
+  background-color: orange;
+  width: 72%;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px;
+  margin-block: 72px;
+  margin-block-start: 0 100px;
+}
+.number{
+  font-size: 19px;
+  font-weight: 500;
+  color: black;
+  background-color: orange;
+  width: 72%;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px;
+  margin-block: 72px;
+  margin-block-start: 0 100px;
+ 
+}
+.location{
+  font-size: 19px;
+  font-weight: 500;
+  color: black;
+  background-color: orange;
+  width: 72%;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px;
+  margin-block: 72px;
+  margin-block-start: 0 100px;
+ 
+}
